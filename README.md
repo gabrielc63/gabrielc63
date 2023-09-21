@@ -3,14 +3,6 @@
 </div>
 
  
- <!-- Github Activities -->
- ## 📈 Github Stats
- <h3>🔥 Streak Stats</h3>
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <p>
-         <img src="https://streak-stats.demolab.com?user=gabrielc63&theme=synthwave&mode=weekly&fire=DD2727">
-     </p>
- </a>
 
 <!--
 **gabrielc63/gabrielc63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
